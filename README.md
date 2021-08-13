@@ -1,6 +1,6 @@
-### 3 column card component
+# 3 column card component
 
-### Este é um projeto simples de 3 colunas para melhorar minhas habilidades.
+### Este é um projeto simples de 3 colunas para melhorar minhas habilidades com HTML, CSS, e poder praticar mais a responsividade de layouts.
 
 ### No projeto foi usado:
 * HTML5
